@@ -1,6 +1,12 @@
 
 
 
+## Deployed on Heroku ##
+https://akshay-meeting-manager.herokuapp.com/
+
+## Source Code  ##
+
+https://github.com/akshay-muglikar/meeting-manager
 
 ## Implemented Function ##
 
@@ -11,7 +17,9 @@
  - Created UI with Angular
  - Created Tabs to display Today's Plan, All Plan and to add new meeting schedule
  - User can update or delete existing plan
- - Hosted application on Heroku
+ - Hosted application on Heroku with CICD with GiTHUB
+
+    
 
     
 
