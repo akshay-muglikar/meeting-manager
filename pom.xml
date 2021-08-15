@@ -14,9 +14,6 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>calendar</name>
 	<description>Manage meeting</description>
-	<properties>
-		<java.version>16</java.version>
-	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
